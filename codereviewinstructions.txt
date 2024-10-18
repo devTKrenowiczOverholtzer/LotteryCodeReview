@@ -1,0 +1,22 @@
+Code review: Homework#9.docx is a CS120 assignment requirement, Lottery.cpp Download Lottery.cppis a student submission. Based on the assignment instructions, find at least 3 errors in the code and fix them.
+
+Due: Friday Oct 25, 11:59 pm
+
+Turn in: Submit your .cpp file. 
+
+/*[CYB220] Lab requirements:
+ * This is a CS120 homework submission. 
+ * IMPORTANT: You don't need to find the security related bugs (input validation, type checking)
+ * (6 pts) 1. Fixed the arrays and make sure the arrays are shuffled correctly! (This does not count toward a coding problem!)
+ * (24 pts) 2. There are at least 4 coding problems in the code, find 3 of them to get full points
+ *    a. Read the homework requirement and Do a code review to find the problems
+ *    b. Write a comment near the problem code, start your comment with [CYB220]
+ *    c. Fix the code!
+ *    3. SUBMIT THIS .CPP FILE to CANVAS
+ */
+
+//NOTE1: array shuffle does not count as 1 coding problem.
+//NOTE2: Same type of issue at different places count as 1 coding problem.
+
+//NOTE3: Users entering a very large number, with characters and type mismatch, are not the type of problem we are looking for in this lab.
+//[CYB220] Start your comments like this (with [CYB220]) to make my grading easier. Thanks!
